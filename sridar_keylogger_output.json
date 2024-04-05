@@ -1,0 +1,50 @@
+[
+    {
+        "event": "pressed",
+        "key": "'s'"
+    },
+    {
+        "event": "released",
+        "key": "'s'"
+    },
+    {
+        "event": "pressed",
+        "key": "'r'"
+    },
+    {
+        "event": "released",
+        "key": "'r'"
+    },
+    {
+        "event": "pressed",
+        "key": "'i'"
+    },
+    {
+        "event": "released",
+        "key": "'i'"
+    },
+    {
+        "event": "pressed",
+        "key": "'d'"
+    },
+    {
+        "event": "released",
+        "key": "'d'"
+    },
+    {
+        "event": "pressed",
+        "key": "'a'"
+    },
+    {
+        "event": "released",
+        "key": "'a'"
+    },
+    {
+        "event": "pressed",
+        "key": "'r'"
+    },
+    {
+        "event": "released",
+        "key": "'r'"
+    }
+]
